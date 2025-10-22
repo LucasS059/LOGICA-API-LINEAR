@@ -67,6 +67,8 @@ Arquivos: ./screenshot.png, ./erro.log
 ├── CriaIssues.js         # Script principal
 ├── package.json
 ├── package-lock.json
-└── .env             
+├── .env.example          # Exemplo de variáveis de ambiente
+└── .gitignore          
 ```
+
 
